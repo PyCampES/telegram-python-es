@@ -1,5 +1,8 @@
 # telegram-python-es
 
+> **Note**
+> Este repositorio se archiva, continúa el desarrollo en https://github.com/python-spain/eventos-automaticos
+
 Publicación de eventos de Meetup de la comunidad de Python España en Telegram.
 
 ## Uso
